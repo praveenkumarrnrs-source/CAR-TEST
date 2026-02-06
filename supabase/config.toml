@@ -1,0 +1,10 @@
+project_id = "eqzdrjewrplvbiosnhab"
+
+[functions.scrape-cars]
+verify_jwt = false
+
+[functions.get-valuation]
+verify_jwt = false
+
+[functions.send-auction-notification]
+verify_jwt = false
